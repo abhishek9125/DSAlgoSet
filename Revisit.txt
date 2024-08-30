@@ -1,0 +1,3 @@
+All Hashing Questions : - 
+https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-subarrays-with-given-sum
+https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-subarrays-with-given-xor-k
