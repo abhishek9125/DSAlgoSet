@@ -5,3 +5,6 @@ https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-s
 Recursion : -
 https://takeuforward.org/plus/data-structures-and-algorithm/recursion/faqs-medium/combination-sum-ii
 https://takeuforward.org/plus/data-structures-and-algorithm/recursion/faqs-medium/subsets-ii
+
+Binary Trees : -
+https://takeuforward.org/plus/data-structures-and-algorithm/binary-trees/medium-problems/maximum-path-sum-
