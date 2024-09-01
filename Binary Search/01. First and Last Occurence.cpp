@@ -1,5 +1,6 @@
 class Solution{
 public:
+
     int firstOccurence(vector<int>& nums, int target) {
         int start = 0;
         int end = nums.size() - 1;
