@@ -8,3 +8,9 @@ https://takeuforward.org/plus/data-structures-and-algorithm/recursion/faqs-mediu
 
 Binary Trees : -
 https://takeuforward.org/plus/data-structures-and-algorithm/binary-trees/medium-problems/maximum-path-sum-
+
+Greedy Problems : -
+https://takeuforward.org/plus/data-structures-and-algorithm/greedy-algorithms/scheduling-and-interval-problems/job-sequencing-problem
+
+Arrays : -
+https://takeuforward.org/plus/data-structures-and-algorithm/arrays/faqs-hard/find-the-repeating-and-missing-number
